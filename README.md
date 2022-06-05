@@ -1,2 +1,0 @@
-# gcoins
-Begin app
